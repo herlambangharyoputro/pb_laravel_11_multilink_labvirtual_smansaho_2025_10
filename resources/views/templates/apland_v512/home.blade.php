@@ -8,7 +8,7 @@
         <meta name="author" content="Designing World">
         <meta name="theme-color" content="#0d6efd">
         <!-- Title-->
-        <title>Apland - App Landing Page Template | Designing World</title>
+        <title>Lab Virtual - Sistem Informasi UPN</title>
         <!-- Favicon-->
         <link rel="icon" href="{{ asset('/labvirtual') }}/assets/img/logo.ico">
         <!-- Fonts-->
